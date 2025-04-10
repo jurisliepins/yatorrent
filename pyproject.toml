@@ -25,6 +25,7 @@ target-version = ["py313"]
 
 [tool.pdm.scripts]
 yattorrent-cli = "scripts.yattorrent_cli:main"
+
 [dependency-groups]
 dev = [
     "black>=25.1.0",
