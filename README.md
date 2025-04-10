@@ -1,1 +1,1 @@
-# yatorrent
+# YaTorrent
